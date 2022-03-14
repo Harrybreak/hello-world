@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Temporary files
+.~lock.*
+
 # Object files
 *.o
 *.ko
