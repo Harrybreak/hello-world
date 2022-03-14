@@ -1,4 +1,2 @@
-# hello-world
-I follow the github tutorial. Sorry.
-I AM MAKING MAC AND CHEESE
-AND NOBODY CAN STOP ME !!!!
+# hello-world also named jdr1
+Un dépôt pour mon premier jeu de rôle avant de récup le projet sur Windows
